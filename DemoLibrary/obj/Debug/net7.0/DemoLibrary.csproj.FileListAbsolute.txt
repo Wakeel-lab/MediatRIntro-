@@ -1,0 +1,12 @@
+C:\play\IntroToMediatR\DemoLibrary\bin\Debug\net7.0\DemoLibrary.deps.json
+C:\play\IntroToMediatR\DemoLibrary\bin\Debug\net7.0\DemoLibrary.dll
+C:\play\IntroToMediatR\DemoLibrary\bin\Debug\net7.0\DemoLibrary.pdb
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.AssemblyInfo.cs
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.dll
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\refint\DemoLibrary.dll
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\DemoLibrary.pdb
+C:\play\IntroToMediatR\DemoLibrary\obj\Debug\net7.0\ref\DemoLibrary.dll
